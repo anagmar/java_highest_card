@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class Deck {
 
@@ -22,13 +23,12 @@ public class Deck {
         }
     }
 
+    public Card dealCard() {
+        Collections.shuffle(this.cards);
+        return this.cards.remove(0);
+    };
 
-//shuffle
 
-//deal 1 card (splice or something?)
-
-    //deal 1 card to each player
-    //compare the values, highest wins
 
 
 }

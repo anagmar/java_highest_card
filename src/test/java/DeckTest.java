@@ -19,4 +19,11 @@ public class DeckTest {
         deck.populateDeck();
         assertEquals(52, deck.getCards().size());
     }
+
+    @Test
+    public void dealRandomCardFromDeck(){
+        deck.populateDeck();
+        deck.dealCard();
+        assertEquals(51, deck.cards.size());
+    }
 }
