@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f12b381-e6ab-4095-9899-9a4058177b53" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/main/java/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/main/java/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/test/java/GameTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/classes/Deck.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/classes/Deck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/classes/DeckTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/test/classes/DeckTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/Deck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/Rank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/Rank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/DeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/test/java/DeckTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/Player.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -372,11 +361,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1363" />
-    <option name="y" value="147" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1280" />
-    <option name="height" value="712" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -602,7 +589,8 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1363" y="147" width="1280" height="712" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="712" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
       <window_info id="Structure" order="1" weight="0.25" />

@@ -17,6 +17,10 @@ public class Player {
     }
 
     public double getCardValue(){
-        return this.myCards.get(0).getRank().getValue();
+        double total = 0;
+        for (int i = 0; i < myCards.size() ; i++) {
+            total += this.myCards.get(0).getRank().getValue();
+        }
+        return total;
     }
 }
