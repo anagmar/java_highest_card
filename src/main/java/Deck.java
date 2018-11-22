@@ -12,7 +12,16 @@ public class Deck {
         return cards;
     }
 
-    //  populate the deck with cards
+    public void populateDeck() {
+
+        for(SuitType suitType : SuitType.values()){
+            for(Rank rank : Rank.values()){
+                Card card = new Card(suitType, rank);
+                cards.add(card);
+            }
+        }
+    }
+
 
 //shuffle
 
